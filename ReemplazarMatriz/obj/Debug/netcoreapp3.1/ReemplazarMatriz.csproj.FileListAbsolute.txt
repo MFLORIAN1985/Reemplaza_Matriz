@@ -1,0 +1,13 @@
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.exe
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.deps.json
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.runtimeconfig.json
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.runtimeconfig.dev.json
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.dll
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\bin\Debug\netcoreapp3.1\ReemplazarMatriz.pdb
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.csprojAssemblyReference.cache
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.AssemblyInfoInputs.cache
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.AssemblyInfo.cs
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.csproj.CoreCompileInputs.cache
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.dll
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.pdb
+C:\Users\MOORIS FLORIAN\source\repos\ReemplazarMatriz\ReemplazarMatriz\obj\Debug\netcoreapp3.1\ReemplazarMatriz.genruntimeconfig.cache
